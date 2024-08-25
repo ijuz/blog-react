@@ -1,0 +1,39 @@
+.left-page{
+    width: 50%;
+   height: 60%;
+   
+}
+.left-page img{
+    width: 100%;
+}
+.container{
+    display: flex;
+    padding: 40px 70px;
+}
+.input-container input{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 25px;
+}
+.login-button{
+    width: 410px;
+    height: 30px;
+    border: none;
+    &:hover {
+        background-color: #1A73E8; /* New background color on hover */
+        color: white;
+      }
+
+}
+.input-container div{
+    margin-bottom: 12px;
+   
+    
+}
+.custom-link{
+    text-decoration: none;
+}
+.span{
+    margin-top: 25px;
+    margin-left: 70px;
+}

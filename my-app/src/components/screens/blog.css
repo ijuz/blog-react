@@ -1,0 +1,69 @@
+.main-container{
+    max-width: 80%;
+}
+.image{
+    width: 60%;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+.image img{
+    width: 100%;
+    
+}
+.detial{
+    margin: 0 239px;
+}
+.content{
+    margin: 0 235px;
+}
+.detail{
+    display: flex;
+    height: 52px;
+}
+.name{
+    margin-left: 20%;
+}
+.date{
+    margin-left: 20%;
+    font-size: 10px;
+}
+.writter{
+    margin-left: 185px;
+}
+.footter{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+.btn-like{
+    margin-left: 30px;
+}
+.btn-like button:first-child{
+    margin-right: 12px;
+}
+.btn-like button{
+    width: 65px;
+    height: 24px;
+}
+.comments-section{
+    margin-left: 20%;
+    margin-top: 45px;
+}
+.comme-list{
+    margin-top: 12px;
+    margin-bottom: 20px;
+
+}
+.username{
+    font-size: 13px;
+    color: #50727B;
+    font-weight: bold;
+}
+.writer{
+    margin-left: 100px;
+    font-size: 12px;
+    margin-top: 15px;
+}

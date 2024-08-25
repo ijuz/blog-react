@@ -1,0 +1,17 @@
+.login-page{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 60px;
+    align-items: center;
+}
+.container{
+    max-width: 100%;
+    max-height: 100vh;
+
+}
+.left-box{
+    width: 45%;
+}
+.left-box h1{
+    font-size: 82px;
+}
